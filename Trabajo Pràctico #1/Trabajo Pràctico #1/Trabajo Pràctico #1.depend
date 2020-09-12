@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1599927816 source:c:\users\julio\documents\utn\tp_laboratorio_1\trabajo pràctico #1\trabajo pràctico #1\aritmèticas.c
+	"Aritmèticas.h"
+
+1599927771 c:\users\julio\documents\utn\tp_laboratorio_1\trabajo pràctico #1\trabajo pràctico #1\aritmèticas.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+
