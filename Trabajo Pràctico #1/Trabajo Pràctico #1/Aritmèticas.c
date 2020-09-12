@@ -1,3 +1,11 @@
+/*******************************************************************
+*Programa:Trabajo Practico Nº1
+*Division:1F
+*Fecha:12/09/2020
+*Autor:Julio Cesar Urquiza
+*
+********************************************************************/
+
 #include "Aritmèticas.h"
 int sumar(int numero1,int numero2)
 {
