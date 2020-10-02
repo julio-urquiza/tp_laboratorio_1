@@ -1,3 +1,10 @@
+/*******************************************************************
+*Programa:Trabajo Practico Nº2
+*Division:1F
+*Fecha:02/10/2020
+*Autor:Julio Cesar Urquiza
+*
+********************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
