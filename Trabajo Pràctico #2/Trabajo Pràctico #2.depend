@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1601660252 source:c:\users\julio\documents\utn\tp_laboratorio_1\trabajo pràctico #2\arrayemployees.c
+	"ArrayEmployees.h"
+
+1601621755 c:\users\julio\documents\utn\tp_laboratorio_1\trabajo pràctico #2\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1601659119 source:c:\users\julio\documents\utn\tp_laboratorio_1\trabajo pràctico #2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1601620823 c:\users\julio\documents\utn\tp_laboratorio_1\trabajo pràctico #2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1601616987 source:c:\users\julio\documents\utn\tp_laboratorio_1\trabajo pràctico #2\funciones.c
+	"funciones.h"
+
+1601621426 c:\users\julio\documents\utn\tp_laboratorio_1\trabajo pràctico #2\funcionesauxiliares.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
