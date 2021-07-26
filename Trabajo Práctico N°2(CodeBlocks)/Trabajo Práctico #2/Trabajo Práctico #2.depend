@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1621123771 source:c:\users\julio cesar urquiza\documents\utn\trabajos-practicos\trabajo práctico n°2\trabajo práctico #2\options.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"options.h"
+	"funciones.h"
+	"ArrayEmployees.h"
+
+1621123771 c:\users\julio cesar urquiza\documents\utn\trabajos-practicos\trabajo práctico n°2\trabajo práctico #2\options.h
+	"ArrayEmployees.h"
+	"funciones.h"
+
+1621121997 source:c:\users\julio cesar urquiza\documents\utn\trabajos-practicos\trabajo práctico n°2\trabajo práctico #2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1621114821 c:\users\julio cesar urquiza\documents\utn\trabajos-practicos\trabajo práctico n°2\trabajo práctico #2\arrayemployees.h
+
+1621123535 source:c:\users\julio cesar urquiza\documents\utn\trabajos-practicos\trabajo práctico n°2\trabajo práctico #2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"options.h"
+
+1618090386 source:c:\users\julio cesar urquiza\documents\utn\trabajos-practicos\trabajo práctico n°2\trabajo práctico #2\funciones.c
+	"funciones.h"
+
+1618090386 c:\users\julio cesar urquiza\documents\utn\trabajos-practicos\trabajo práctico n°2\trabajo práctico #2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
